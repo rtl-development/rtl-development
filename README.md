@@ -1,3 +1,8 @@
-Hello developers :simple_smile:</br>
-My name is <b>Ruba</b>, Android Developer (Java).</br>
-I am interisted in Android development with Java, Kotlin, and Dart as cross platform language.
+<p><span style="color: #333333;"><strong>Hello developers :simple_smile:</strong></span></p>
+<p><span style="color: #3366ff;"><strong>My name is Ruba, Android Developer (Java).</strong></span></p>
+<p><span style="color: #333333;"><strong>I am interisted in Android development with <span style="color: #0000ff;">Java</span>, <span style="color: #800080;">Kotlin</span>, and <span style="color: #008000;">Dart </span>as cross platform language.</strong></span></p>
+<div id="s3gt_translate_tooltip_mini" class="s3gt_translate_tooltip_mini_box" style="background: initial !important; border: initial !important; border-radius: initial !important; border-spacing: initial !important; border-collapse: initial !important; direction: ltr !important; flex-direction: initial !important; font-weight: initial !important; height: initial !important; letter-spacing: initial !important; min-width: initial !important; max-width: initial !important; min-height: initial !important; max-height: initial !important; margin: auto !important; outline: initial !important; padding: initial !important; position: absolute; table-layout: initial !important; text-align: initial !important; text-shadow: initial !important; width: initial !important; word-break: initial !important; word-spacing: initial !important; overflow-wrap: initial !important; box-sizing: initial !important; display: initial !important; color: inherit !important; font-size: 13px !important; font-family: X-LocaleSpecific, sans-serif, Tahoma, Helvetica !important; line-height: 13px !important; vertical-align: top !important; white-space: inherit !important; left: 37px; top: 74px; opacity: 0.2;">
+<div id="s3gt_translate_tooltip_mini_logo" class="s3gt_translate_tooltip_mini" title="Translate selected text">&nbsp;</div>
+<div id="s3gt_translate_tooltip_mini_sound" class="s3gt_translate_tooltip_mini" title="Play">&nbsp;</div>
+<div id="s3gt_translate_tooltip_mini_copy" class="s3gt_translate_tooltip_mini" title="Copy text to Clipboard">&nbsp;</div>
+</div>
